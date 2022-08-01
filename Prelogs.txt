@@ -1,0 +1,4873 @@
+N_PROF05@ts3uas3x> rxmop:moty=rxstg;
+rxmop:moty=rxstg: Command not found.
+N_PROF05@ts3uas3x> rxmop:mo=rxstg;
+rxmop:mo=rxstg: Command not found.
+N_PROF05@ts3uas3x> eaw APEBH18
+<rxmop:moty=rxstg;
+RADIO X-CEIVER ADMINISTRATION MANAGED OBJECT DATA
+
+TG DATA
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-995         JDC006A               JDC006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-996         JDC006B               JDC006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-997         JDC006C               JDC006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-998         JDC006K               JDC006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-999         JDC006L               JDC006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1000        IBP012A               IBP012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1001        IBP012B               IBP012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1002        IBP012C               IBP012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1003        DABI11A               DABI11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1004        DABI11B               DABI11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1005        DABI11C               DABI11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1006        KAAN11A               KAAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1007        KAAN11B               KAAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1008        KAAN11C               KAAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1009        MTGH11A               MTGH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1010        MTGH11B               MTGH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1011        MTGH11C               MTGH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1012        IBP011A               IBP011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1013        IBP011B               IBP011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1014        IBP011C               IBP011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1015        AGPL11A               AGPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1016        AGPL11B               AGPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1017        AGPL11C               AGPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1018        IBP005A               IBP005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1019        IBP005B               IBP005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1020        IBP005C               IBP005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1021        JAPL12A               JAPL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1022        JAPL12B               JAPL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1023        JAPL12C               JAPL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1024        DDML11A               DDML11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1025        DDML11B               DDML11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1026        DDML11C               DDML11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1027        BLN010A               BLN010           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1028        BLN010B               BLN010           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1029        BLN010C               BLN010           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1030        VMRA11A               VMRA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1031        VMRA11B               VMRA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1032        VMRA11C               VMRA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1033        KORU17A               KORU17           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1034        KORU17B               KORU17           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1035        KORU17C               KORU17           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1036        SOLU11A               SOLU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1037        SOLU11B               SOLU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1038        SOLU11C               SOLU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1039        JAIT11A               JAIT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1040        JAIT11B               JAIT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1041        JAIT11C               JAIT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1042        COW036A               COW036           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1043        COW036B               COW036           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1044        COW036C               COW036           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1045        COW036A_1800          COW036           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1046        COW036B_1800          COW036           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1047        COW036C_1800          COW036           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1048        IBP013A               IBP013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1049        IBP013B               IBP013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1050        IBP013C               IBP013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1051        RMMU11A               RMMU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1052        RMMU11B               RMMU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1053        RMMU11C               RMMU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1054        APRL11A               APRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1055        APRL11B               APRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1056        APRL11C               APRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1057        SDR020A               SDR020           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1058        SDR020B               SDR020           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1059        SDR020C               SDR020           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1060        HY5831A               HY5831           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1061        HY5831B               HY5831           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1062        HY5831C               HY5831           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1063        SDR018A               SDR018           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1064        SDR018B               SDR018           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1065        SDR018C               SDR018           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1066        IBGN11A               IBGN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1067        IBGN11B               IBGN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1068        IBGN11C               IBGN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1069        PILU11A               PILU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1070        PILU11B               PILU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1071        PILU11C               PILU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1072        MIDR11A               MIDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1073        MIDR11B               MIDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1074        MIDR11C               MIDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1075        KDTL12A               KDTL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1076        KDTL12B               KDTL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1077        KDTL12C               KDTL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1078        PCHM11A               PCHM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1079        PCHM11B               PCHM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1080        PCHM11C               PCHM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1081        SDR017A               SDR017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1082        SDR017B               SDR017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1083        SDR017C               SDR017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1084        KLPE11A               KLPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1085        KLPE11B               KLPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1086        KLPE11C               KLPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1087        KORU18A               KORU18           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1088        KORU18B               KORU18           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1089        KORU18C               KORU18           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1090        ELIT11A               ELIT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1091        ELIT11B               ELIT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1092        ELIT11C               ELIT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1093        KALH11A               KALH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1094        KALH11B               KALH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1095        KALH11C               KALH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1096        DDLL11A               DDLL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1097        DDLL11B               DDLL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1098        DDLL11C               DDLL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1099        JAKA11A               JAKA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1100        JAKA11B               JAKA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1104        KGDL11C               KGDL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1105        KUCR11A               KUCR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1106        KUCR11B               KUCR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1107        KUCR11C               KUCR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1108        MACR11A               MACR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1109        MACR11B               MACR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1110        MACR11C               MACR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1111        PLPY54A               PLPY54           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1112        PLPY54B               PLPY54           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1113        PLPY54C               PLPY54           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1114        PLPY54D               PLPY54           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1115        VDLA11A               VDLA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1116        VDLA11B               VDLA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1117        VDLA11C               VDLA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1118        VMLM11A               VMLM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1119        VMLM11B               VMLM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1120        VMLM11C               VMLM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1121        JAKA11C               JAKA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1122        KGDL11A               KGDL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1123        KGDL11B               KGDL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1124        MIDR11M               MIDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1200        JDC003A               JDC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1201        JDC003B               JDC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1202        JDC003C               JDC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1203        JDC013A               JDC013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1204        JDC013B               JDC013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1205        JDC013C               JDC013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1206        JDC014A               JDC014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1207        JDC014B               JDC014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1208        JDC014C               JDC014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1209        JDC017A               JDC017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1210        JDC017B               JDC017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1211        JDC017C               JDC017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1212        JDC017K               JDC017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1213        JDC017M               JDC017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1214        JDC021A               JDC021           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1215        JDC021B               JDC021           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1216        JDC021C               JDC021           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1217        JDC022A               JDC022           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1218        JDC022B               JDC022           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1219        JDC022C               JDC022           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1220        KLWA11A               KLWA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1221        KLWA11B               KLWA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1222        KLWA11C               KLWA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1223        AMAN12A               AMAN12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1224        AMAN12B               AMAN12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1225        AMAN12C               AMAN12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1226        KTHR12A               KTHR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1227        KTHR12B               KTHR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1228        KTHR12C               KTHR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1229        KTHR12D               KTHR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1230        SDR015A               SDR015           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1231        SDR015B               SDR015           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1232        SDR015C               SDR015           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1233        VGRL11A               VGRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1234        VGRL11B               VGRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1235        VGRL11C               VGRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1236        SOLU11D               SOLU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1237        SDR016A               SDR016           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1238        SDR016B               SDR016           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1239        SDR016C               SDR016           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1240        PLPY52A               PLPY52           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1241        PLPY52B               PLPY52           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1242        PLPY52C               PLPY52           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1243        BHNG11A               BHNG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1244        BHNG11B               BHNG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1245        BHNG11C               BHNG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1246        TML050A               TML050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1247        TML050B               TML050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1248        BODK11A               BODK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1249        BODK11B               BODK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1250        DONU11A               DONU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1251        DONU11B               DONU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1252        DONU11C               DONU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1253        INTH11C               INTH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1254        INTH11A               INTH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1255        INTH11B               INTH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1256        TLKD11A               TLKD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1257        TLKD11B               TLKD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1258        TLKD11C               TLKD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1259        CHME11A               CHME11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1260        CHME11B               CHME11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1261        CHME11C               CHME11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1262        CKDP11A               CKDP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1263        CKDP11B               CKDP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1264        CKDP11C               CKDP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1265        KARK11A               KARK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1266        KARK11B               KARK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1267        KARK11C               KARK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1268        ATDY11A               ATDY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1269        ATDY11B               ATDY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1270        ATDY11C               ATDY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1271        IDIK11A               IDIK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1272        IDIK11B               IDIK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1273        IDIK11C               IDIK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1274        IBP014A               IBP014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1275        IBP014B               IBP014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1276        IBP014C               IBP014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1277        CHAN13A               CHAN13           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1278        CHAN13B               CHAN13           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1279        CHAN13C               CHAN13           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1280        CHAN14A               CHAN14           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1281        CHAN14B               CHAN14           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1282        CHAN14C               CHAN14           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1283        GHAT11A               GHAT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1284        GHAT11B               GHAT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1285        GHAT11C               GHAT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1286        COW081A               COW081           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1287        COW081B               COW081           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1288        COW081C               COW081           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1289        COW081K               COW081           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1290        COW081M               COW081           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1291        FTMP11A               FTMP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1292        FTMP11B               FTMP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1293        FTMP11C               FTMP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1294        RFC053A               RFC053           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1295        RFC053B               RFC053           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1296        RFC053C               RFC053           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1297        ANAJ11A               ANAJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1298        ANAJ11B               ANAJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1299        ANAJ11C               ANAJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1300        MUDY11A               MUDY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1301        MUDY11B               MUDY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1302        MUDY11C               MUDY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1303        POKM11A               POKM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1304        POKM11B               POKM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1305        POKM11C               POKM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1306        MULD11A               MULD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1307        MULD11B               MULD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1308        MULD11C               MULD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1309        PLPY50A               PLPY50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1310        CHAN12A               CHAN12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1311        CHAN12B               CHAN12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1312        CHAN12C               CHAN12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1313        PLCM11A               PLCM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1314        PLCM11B               PLCM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1315        PLCM11C               PLCM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1316        COW088A               COW088           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1317        COW088B               COW088           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1318        COW088C               COW088           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1319        COW088K               COW088           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1320        COW088L               COW088           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1321        COW088M               COW088           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1322        HY7094A               HY7094           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1323        HY7094B               HY7094           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1324        HY7094C               HY7094           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1325        SDR019A               SDR019           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1326        SDR019B               SDR019           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1327        SDR019C               SDR019           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1328        JBPL11A               JBPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1329        JBPL11B               JBPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1330        JBPL11C               JBPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1331        IPPL11A               IPPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1332        IPPL11B               IPPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1333        IPPL11C               IPPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1334        BAPL11A               BAPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1335        BAPL11B               BAPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1336        BAPL11C               BAPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1337        MDGI11A               MDGI11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1338        MDGI11B               MDGI11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1339        MDGI11C               MDGI11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1340        PLPY53A               PLPY53           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1341        PLPY53B               PLPY53           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1342        PLPY53C               PLPY53           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1343        NRVL11A               NRVL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1344        NRVL11B               NRVL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1345        NRVL11C               NRVL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1346        JDC008A               JDC008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1347        JDC008B               JDC008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1348        JDC008C               JDC008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1349        JDC008K               JDC008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1350        JDC008L               JDC008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1351        PODK11A               PODK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1352        PODK11B               PODK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1353        PODK11C               PODK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1354        GDP050A               GDP050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1355        GDP050B               GDP050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1356        GDP050C               GDP050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1357        BRGL11A               BRGL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1358        BRGL11B               BRGL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1359        BRGL11C               BRGL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1360        BLN002A               BLN002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1361        BLN002B               BLN002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1362        BLN002C               BLN002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1363        TMPR11A               TMPR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1364        TMPR11B               TMPR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1365        TMPR11C               TMPR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1366        HSGD11A               HSGD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1367        HSGD11B               HSGD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1368        HSGD11C               HSGD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1369        DBCH12A               DBCH12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1370        DBCH12B               DBCH12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1371        DBCH12C               DBCH12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1372        DBCH12K               DBCH12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1373        SDR011A               SDR011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1374        SDR011B               SDR011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1375        SDR011C               SDR011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1376        SDR011L               SDR011           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1377        CNRV11A               CNRV11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1378        CNRV11B               CNRV11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1379        CNRV11C               CNRV11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1380        SDR005A               SDR005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1381        SDR005B               SDR005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1382        SDR005C               SDR005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1383        SDR005M               SDR005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1384        KTAP11A               KTAP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1385        KTAP11B               KTAP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1386        KTAP11C               KTAP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1387        SDR002A               SDR002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1388        SDR002B               SDR002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1389        SDR002C               SDR002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1390        SDR013A               SDR013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1391        SDR013B               SDR013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1392        SDR013C               SDR013           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1393        SDR001A               SDR001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1394        SDR001B               SDR001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1395        SDR001C               SDR001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1396        RICD11A               RICD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1397        RICD11B               RICD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1398        RICD11C               RICD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1399        PNJR12A               PNJR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1400        PNJR12B               PNJR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1401        PNJR12C               PNJR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1402        PNJR12K               PNJR12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1403        GUM002A               GUM002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1404        GUM002B               GUM002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1405        GUM002C               GUM002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1406        GUM001A               GUM001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1407        GUM001B               GUM001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1408        GUM001C               GUM001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1409        ELI001A               ELI001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1410        ELI001B               ELI001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1411        ELI001C               ELI001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1412        ELI001L               ELI001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1413        LYPL11A               LYPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1414        LYPL11B               LYPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1415        LYPL11C               LYPL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1416        SVNG11A               SVNG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1417        SVNG11B               SVNG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1418        SVNG11C               SVNG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1419        DPML11A               DPML11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1420        DPML11B               DPML11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1421        DPML11C               DPML11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1422        RFC003A               RFC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1423        RFC003B               RFC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1424        RFC003C               RFC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1425        RFC003D               RFC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1426        RFC003E               RFC003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1427        CRDN11A               CRDN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1428        CRDN11B               CRDN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1429        CRDN11C               CRDN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1430        URKN11A               URKN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1431        URKN11B               URKN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1432        URKN11C               URKN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1433        BLN005A               BLN005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1434        BLN005B               BLN005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1435        BLN005C               BLN005           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1437        JDC002B               JDC002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1438        JDC002C               JDC002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1439        JDC002D               JDC002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1440        JDC002A               JDC002           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1441        JDC012A               JDC012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1442        JDC012B               JDC012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1443        JDC012C               JDC012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1444        JDC012L               JDC012           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1445        SDR006A               SDR006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1446        SDR006B               SDR006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1447        SDR006C               SDR006           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1448        KORU16A               KORU16           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1449        KORU16B               KORU16           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1450        KORU16C               KORU16           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1451        SDR010A               SDR010           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1452        SDR010B               SDR010           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1453        SDR010C               SDR010           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1454        SDR050A               SDR050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1455        SDR050B               SDR050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1456        SDR050C               SDR050           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1457        NEDU11A               NEDU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1458        NEDU11B               NEDU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1459        NEDU11C               NEDU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1460        DMBP11A               DMBP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1461        DMBP11B               DMBP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1462        DMBP11C               DMBP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1463        NDWP11A               NDWP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1464        NDWP11B               NDWP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1465        NDWP11C               NDWP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1466        GNLR11A               GNLR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1467        GNLR11B               GNLR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1468        GNLR11C               GNLR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1469        GNLR11L               GNLR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1470        NLWL11A               NLWL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1471        NLWL11B               NLWL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1472        NLWL11C               NLWL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1473        DDPE11A               DDPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1474        DDPE11B               DDPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1475        DDPE11C               DDPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1476        KHPE11A               KHPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1477        KHPE11B               KHPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1478        KHPE11C               KHPE11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1479        ARUT11A               ARUT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1480        ARUT11B               ARUT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1481        ARUT11C               ARUT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1482        YACH11A               YACH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1483        YACH11B               YACH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1484        YACH11C               YACH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1485        IBP008A               IBP008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1486        IBP008B               IBP008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1487        IBP008C               IBP008           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1488        IBP007A               IBP007           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1489        IBP007B               IBP007           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1490        IBP007C               IBP007           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1491        MNCH11A               MNCH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1492        MNCH11B               MNCH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1493        MNCH11C               MNCH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1494        KAPU11A               KAPU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1495        KAPU11B               KAPU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1496        KAPU11C               KAPU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1497        NDGM03A               NDGM03           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1498        NDGM03B               NDGM03           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1499        NDGM03C               NDGM03           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1500        TJPT11A               TJPT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1501        TJPT11B               TJPT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1502        TJPT11C               TJPT11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1503        VALR11A               VALR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1504        VALR11B               VALR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1505        VALR11C               VALR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1506        AKTP11A               AKTP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1507        AKTP11B               AKTP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1508        AKTP11C               AKTP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1632        SAN001A               SAN001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1633        SAN001B               SAN001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1634        SAN001C               SAN001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1635        NGP001A               NGP001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1636        NGP001B               NGP001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1637        NGP001C               NGP001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1638        NGP001M               NGP001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1639        RFC001A               RFC001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1640        RFC001B               RFC001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1641        RFC001C               RFC001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1642        RFC052A               RFC052           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1643        RFC052B               RFC052           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1644        RFC052C               RFC052           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1645        RFC052D               RFC052           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1646        KURU12A               KURU12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1647        KURU12B               KURU12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1648        KURU12C               KURU12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1649        GDKD11B               GDKD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1650        GDKD11C               GDKD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1651        GDKD11A               GDKD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1652        TRPY11A               TRPY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1653        TRPY11B               TRPY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1654        TRPY11C               TRPY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1655        YRGP11A               YRGP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1656        YRGP11B               YRGP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1657        YRGP11C               YRGP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1658        MRGD11A               MRGD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1659        MRGD11B               MRGD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1660        MRGD11C               MRGD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1661        AMAN11A               AMAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1662        AMAN11B               AMAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1663        AMAN11C               AMAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1664        UDHY11A               UDHY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1665        UDHY11B               UDHY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1666        UDHY11C               UDHY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1667        THMU11A               THMU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1668        THMU11B               THMU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1669        THMU11C               THMU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1670        KORU50A               KORU50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1671        KORU50B               KORU50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1672        KORU50C               KORU50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1673        KORU50L               KORU50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1674        KORU50M               KORU50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1675        PLPA11A               PLPA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1676        PLPA11B               PLPA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1677        PLPA11C               PLPA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1678        PLPA11M               PLPA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1679        KVLP11A               KVLP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1680        KVLP11B               KVLP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1681        KVLP11C               KVLP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1682        MUGU11A               MUGU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1683        MUGU11B               MUGU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1684        MUGU11C               MUGU11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1685        CHTP11A               CHTP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1686        CHTP11B               CHTP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1687        CHTP11C               CHTP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1688        JDC023A               JDC023           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1689        JDC023B               JDC023           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1690        JDC023C               JDC023           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1691        JDC023K               JDC023           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1692        JDC023L               JDC023           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1693        PNJR50A               PNJR50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1694        PNJR50B               PNJR50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1695        PNJR50C               PNJR50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1696        PNJR50D               PNJR50           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1697        BLN003A               BLN003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1698        BLN003B               BLN003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1699        BLN003C               BLN003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1700        BLN003L               BLN003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1701        NDGM02A               NDGM02           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1702        NDGM02B               NDGM02           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1703        NDGM02C               NDGM02           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1704        TMSG11A               TMSG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1705        TMSG11B               TMSG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1706        TMSG11C               TMSG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1707        PLPY51A               PLPY51           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1708        PLPY51B               PLPY51           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1709        PLPY51L               PLPY51           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1710        RUDR11A               RUDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1711        RUDR11B               RUDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1712        RUDR11C               RUDR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1713        MALL11A               MALL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1714        MALL11B               MALL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1715        MALL11C               MALL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1716        MDAN11A               MDAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1717        MDAN11B               MDAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1718        MDAN11C               MDAN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1719        SDR014A               SDR014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1720        SDR014B               SDR014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1721        SDR014C               SDR014           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1722        MDGA11A               MDGA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1723        MDGA11B               MDGA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1724        MDGA11C               MDGA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1725        TMDK11A               TMDK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1726        TMDK11B               TMDK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1727        TMDK11C               TMDK11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1728        PLMA11A               PLMA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1729        PLMA11B               PLMA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1730        PLMA11C               PLMA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1731        SIDD11A               SIDD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1732        SIDD11B               SIDD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1733        SIDD11C               SIDD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1734        SER003A               SER003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1735        SER003B               SER003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1736        SER003C               SER003           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1737        MREP11A               MREP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1738        MREP11B               MREP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1739        MREP11C               MREP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1740        TDOR11A               TDOR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1741        TDOR11B               TDOR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1742        TDOR11C               TDOR11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1743        MADH11A               MADH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1744        MADH11B               MADH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1745        MADH11C               MADH11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1746        ETPG11A               ETPG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1747        ETPG11B               ETPG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1748        ETPG11C               ETPG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1749        NSRL11A               NSRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1750        NSRL11B               NSRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1751        NSRL11C               NSRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1752        NSRL11M               NSRL11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1753        KMDM11A               KMDM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1754        KMDM11B               KMDM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1755        KMDM11C               KMDM11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1756        NAMP11A               NAMP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1757        NAMP11B               NAMP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1758        NAMP11C               NAMP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1759        GHUP11A               GHUP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1760        GHUP11B               GHUP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1761        GHUP11C               GHUP11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1762        MSW001A               MSW001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1763        MSW001B               MSW001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1764        MSW001C               MSW001           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1765        NARA11A               NARA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1766        NARA11B               NARA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1767        NARA11C               NARA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1768        GUJJ11A               GUJJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1769        GUJJ11B               GUJJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1770        GUJJ11C               GUJJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1771        GUJJ11L               GUJJ11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1772        HY5673A               HY5673           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1773        HY5673B               HY5673           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1774        HY5673C               HY5673           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1775        MTGW11A               MTGW11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1776        MTGW11B               MTGW11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1777        MTGW11C               MTGW11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1778        MNKL12A               MNKL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1779        MNKL12B               MNKL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1780        MNKL12C               MNKL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1781        APRD11A               APRD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1782        APRD11B               APRD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1783        APRD11C               APRD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1784        APRD11L               APRD11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1785        JANG11A               JANG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1786        JANG11B               JANG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1787        JANG11C               JANG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1788        KMSN11A               KMSN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1789        KMSN11B               KMSN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1790        KMSN11C               KMSN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1791        MNKL12D               MNKL12           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1792        NGLA11A               NGLA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1793        NGLA11B               NGLA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1794        NGLA11C               NGLA11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1795        TLPY11A               TLPY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1796        TLPY11B               TLPY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1797        TLPY11C               TLPY11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1800        MADG11A               MADG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1801        MADG11B               MADG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1802        MADG11C               MADG11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1803        MDWN11A               MDWN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1804        MDWN11B               MDWN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1805        MDWN11C               MDWN11           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  FASTREC  NORMAL    LATEST     NO
+
+MO                SECTOR                RSITE            MODEL
+RXSTG-1806        SDR017L               SDR017           G31
+
+                  CONFMD   CCCHCMD   BSSWANTED  IMBVAMOS
+                  MINDIST  NORMAL    LATEST     NO
+
+END
+
+<rxtcp:moty=rxstg;
+RADIO X-CEIVER ADMINISTRATION
+TG TO CHANNEL GROUP CONNECTION DATA
+
+MO               CELL                CHGR
+RXSTG-998        JDC006K              0
+                 JDC006K              5
+RXSTG-999        JDC006L              0
+                 JDC006L              5
+RXSTG-1000       IBP012A              0
+                 IBP012A              1
+RXSTG-1001       IBP012B              0
+                 IBP012B              2
+RXSTG-1002       IBP012C              0
+                 IBP012C              3
+RXSTG-1003       DABI11A              0
+                 DABI11A              1
+RXSTG-1004       DABI11B              0
+                 DABI11B              2
+RXSTG-1005       DABI11C              0
+                 DABI11C              3
+RXSTG-1006       KAAN11A              0
+                 KAAN11A              1
+RXSTG-1007       KAAN11B              0
+                 KAAN11B              2
+RXSTG-1008       KAAN11C              0
+                 KAAN11C              3
+RXSTG-1009       MTGH11A              0
+                 MTGH11A              1
+RXSTG-1010       MTGH11B              0
+                 MTGH11B              2
+RXSTG-1011       MTGH11C              0
+                 MTGH11C              3
+RXSTG-1012       IBP011A              0
+                 IBP011A              1
+RXSTG-1013       IBP011B              0
+                 IBP011B              2
+RXSTG-1014       IBP011C              0
+                 IBP011C              3
+RXSTG-1015       AGPL11A              0
+                 AGPL11A              1
+RXSTG-1016       AGPL11B              0
+                 AGPL11B              2
+                 AGPL11B              6
+RXSTG-1017       AGPL11C              0
+                 AGPL11C              3
+RXSTG-1018       IBP005A              0
+                 IBP005A              1
+RXSTG-1019       IBP005B              0
+                 IBP005B              2
+RXSTG-1020       IBP005C              0
+                 IBP005C              3
+RXSTG-1021       JAPL12A              0
+                 JAPL12A              1
+RXSTG-1022       JAPL12B              0
+                 JAPL12B              2
+RXSTG-1023       JAPL12C              0
+                 JAPL12C              3
+RXSTG-1024       DDML11A              0
+                 DDML11A              1
+RXSTG-1025       DDML11B              0
+                 DDML11B              2
+                 DDML11B              6
+RXSTG-1026       DDML11C              0
+                 DDML11C              3
+RXSTG-1027       BLN010A              0
+                 BLN010A              1
+RXSTG-1028       BLN010B              0
+                 BLN010B              2
+RXSTG-1029       BLN010C              0
+                 BLN010C              3
+RXSTG-1030       VMRA11A              0
+                 VMRA11A              1
+RXSTG-1031       VMRA11B              0
+                 VMRA11B              2
+RXSTG-1032       VMRA11C              0
+                 VMRA11C              3
+RXSTG-1033       KORU17A              0
+                 KORU17A              1
+RXSTG-1034       KORU17B              0
+                 KORU17B              2
+RXSTG-1035       KORU17C              0
+                 KORU17C              3
+RXSTG-1036       SOLU11A              0
+                 SOLU11A              1
+RXSTG-1037       SOLU11B              0
+                 SOLU11B              2
+RXSTG-1038       SOLU11C              0
+                 SOLU11C              3
+RXSTG-1039       JAIT11A              0
+                 JAIT11A              1
+RXSTG-1040       JAIT11B              0
+                 JAIT11B              2
+RXSTG-1041       JAIT11C              0
+                 JAIT11C              3
+RXSTG-1045       COW036A              0
+                 COW036A              1
+RXSTG-1046       COW036B              0
+                 COW036B              2
+RXSTG-1047       COW036C              0
+                 COW036C              3
+RXSTG-1048       IBP013A              0
+                 IBP013A              1
+RXSTG-1049       IBP013B              0
+                 IBP013B              2
+RXSTG-1050       IBP013C              0
+                 IBP013C              3
+RXSTG-1051       RMMU11A              0
+                 RMMU11A              1
+RXSTG-1052       RMMU11B              0
+                 RMMU11B              2
+RXSTG-1053       RMMU11C              0
+                 RMMU11C              3
+RXSTG-1054       APRL11A              0
+                 APRL11A              1
+RXSTG-1055       APRL11B              0
+                 APRL11B              2
+RXSTG-1056       APRL11C              0
+                 APRL11C              3
+RXSTG-1057       SDR020A              0
+                 SDR020A              1
+RXSTG-1058       SDR020B              0
+                 SDR020B              2
+RXSTG-1059       SDR020C              0
+                 SDR020C              3
+RXSTG-1060       HY5831A              0
+                 HY5831A              1
+RXSTG-1061       HY5831B              0
+                 HY5831B              2
+RXSTG-1062       HY5831C              0
+                 HY5831C              3
+RXSTG-1063       SDR018A              0
+                 SDR018A              1
+RXSTG-1064       SDR018B              0
+                 SDR018B              2
+RXSTG-1065       SDR018C              0
+                 SDR018C              3
+RXSTG-1066       IBGN11A              0
+                 IBGN11A              1
+RXSTG-1067       IBGN11B              0
+                 IBGN11B              2
+RXSTG-1068       IBGN11C              0
+                 IBGN11C              3
+RXSTG-1069       PILU11A              0
+                 PILU11A              1
+RXSTG-1070       PILU11B              0
+                 PILU11B              2
+RXSTG-1071       PILU11C              0
+                 PILU11C              3
+RXSTG-1072       MIDR11A              0
+                 MIDR11A              1
+RXSTG-1073       MIDR11B              0
+                 MIDR11B              2
+RXSTG-1074       MIDR11C              0
+                 MIDR11C              3
+RXSTG-1075       KDTL12A              0
+                 KDTL12A              1
+RXSTG-1076       KDTL12B              0
+                 KDTL12B              2
+RXSTG-1077       KDTL12C              0
+                 KDTL12C              3
+RXSTG-1078       PCHM11A              0
+                 PCHM11A              1
+RXSTG-1079       PCHM11B              0
+                 PCHM11B              2
+RXSTG-1080       PCHM11C              0
+                 PCHM11C              3
+                 PCHM11C              6
+RXSTG-1081       SDR017A              0
+                 SDR017A              1
+RXSTG-1082       SDR017B              0
+                 SDR017B              2
+RXSTG-1083       SDR017C              0
+                 SDR017C              3
+RXSTG-1084       KLPE11A              0
+                 KLPE11A              1
+RXSTG-1085       KLPE11B              0
+                 KLPE11B              2
+RXSTG-1086       KLPE11C              0
+                 KLPE11C              3
+RXSTG-1087       KORU18A              0
+                 KORU18A              1
+RXSTG-1088       KORU18B              0
+                 KORU18B              2
+RXSTG-1089       KORU18C              0
+                 KORU18C              3
+RXSTG-1090       ELIT11A              0
+                 ELIT11A              1
+RXSTG-1091       ELIT11B              0
+                 ELIT11B              2
+RXSTG-1092       ELIT11C              0
+                 ELIT11C              3
+RXSTG-1093       KALH11A              0
+                 KALH11A              1
+RXSTG-1094       KALH11B              0
+                 KALH11B              2
+RXSTG-1095       KALH11C              0
+                 KALH11C              3
+RXSTG-1096       DDLL11A              1
+                 DDLL11A              0
+RXSTG-1097       DDLL11B              0
+                 DDLL11B              2
+                 DDLL11B              6
+RXSTG-1098       DDLL11C              0
+                 DDLL11C              3
+RXSTG-1099       JAKA11A              0
+                 JAKA11A              1
+RXSTG-1100       JAKA11B              0
+                 JAKA11B              2
+RXSTG-1104       KGDL11C              0
+                 KGDL11C              3
+RXSTG-1105       KUCR11A              0
+                 KUCR11A              1
+RXSTG-1106       KUCR11B              0
+                 KUCR11B              2
+RXSTG-1107       KUCR11C              0
+                 KUCR11C              3
+                 KUCR11C              6
+RXSTG-1108       MACR11A              0
+                 MACR11A              1
+RXSTG-1109       MACR11B              0
+                 MACR11B              2
+RXSTG-1110       MACR11C              0
+                 MACR11C              3
+RXSTG-1111       PLPY54A              0
+                 PLPY54A              1
+RXSTG-1112       PLPY54B              0
+                 PLPY54B              2
+RXSTG-1113       PLPY54C              0
+                 PLPY54C              3
+RXSTG-1114       PLPY54D              0
+                 PLPY54D              5
+RXSTG-1115       VDLA11A              0
+                 VDLA11A              1
+RXSTG-1116       VDLA11B              0
+                 VDLA11B              2
+RXSTG-1117       VDLA11C              0
+                 VDLA11C              3
+RXSTG-1118       VMLM11A              0
+                 VMLM11A              1
+RXSTG-1119       VMLM11B              0
+                 VMLM11B              2
+RXSTG-1120       VMLM11C              0
+                 VMLM11C              3
+RXSTG-1121       JAKA11C              0
+                 JAKA11C              3
+RXSTG-1122       KGDL11A              0
+                 KGDL11A              1
+RXSTG-1123       KGDL11B              0
+                 KGDL11B              2
+RXSTG-1124       MIDR11M              0
+                 MIDR11M              5
+RXSTG-1203       JDC013A              0
+                 JDC013A              1
+RXSTG-1204       JDC013B              0
+                 JDC013B              2
+RXSTG-1205       JDC013C              0
+                 JDC013C              3
+RXSTG-1206       JDC014A              0
+                 JDC014A              1
+RXSTG-1207       JDC014B              0
+                 JDC014B              2
+RXSTG-1208       JDC014C              0
+                 JDC014C              3
+RXSTG-1209       JDC017A              0
+                 JDC017A              1
+RXSTG-1210       JDC017B              0
+                 JDC017B              2
+RXSTG-1211       JDC017C              0
+                 JDC017C              3
+RXSTG-1212       JDC017K              0
+                 JDC017K              5
+RXSTG-1213       JDC017M              0
+                 JDC017M              5
+RXSTG-1214       JDC021A              0
+                 JDC021A              1
+RXSTG-1215       JDC021B              0
+                 JDC021B              2
+RXSTG-1216       JDC021C              0
+                 JDC021C              3
+RXSTG-1217       JDC022A              0
+                 JDC022A              1
+RXSTG-1218       JDC022B              0
+                 JDC022B              2
+RXSTG-1219       JDC022C              0
+                 JDC022C              3
+RXSTG-1220       KLWA11A              0
+                 KLWA11A              1
+RXSTG-1221       KLWA11B              0
+                 KLWA11B              2
+RXSTG-1222       KLWA11C              0
+                 KLWA11C              3
+RXSTG-1223       AMAN12A              0
+                 AMAN12A              1
+RXSTG-1224       AMAN12B              0
+                 AMAN12B              2
+RXSTG-1225       AMAN12C              0
+                 AMAN12C              3
+RXSTG-1226       KTHR12A              0
+                 KTHR12A              1
+RXSTG-1227       KTHR12B              0
+                 KTHR12B              2
+RXSTG-1228       KTHR12C              0
+                 KTHR12C              3
+RXSTG-1229       KTHR12D              0
+                 KTHR12D              5
+RXSTG-1230       SDR015A              0
+                 SDR015A              1
+RXSTG-1231       SDR015B              0
+                 SDR015B              2
+RXSTG-1232       SDR015C              0
+                 SDR015C              3
+RXSTG-1233       VGRL11A              0
+                 VGRL11A              1
+RXSTG-1234       VGRL11B              0
+                 VGRL11B              2
+RXSTG-1235       VGRL11C              0
+                 VGRL11C              3
+RXSTG-1236       SOLU11D              0
+                 SOLU11D              5
+RXSTG-1237       SDR016A              0
+                 SDR016A              1
+RXSTG-1238       SDR016B              0
+                 SDR016B              2
+RXSTG-1239       SDR016C              0
+                 SDR016C              3
+RXSTG-1240       PLPY52A              0
+                 PLPY52A              1
+RXSTG-1241       PLPY52B              0
+                 PLPY52B              2
+RXSTG-1242       PLPY52C              0
+                 PLPY52C              3
+RXSTG-1243       BHNG11A              0
+                 BHNG11A              1
+RXSTG-1244       BHNG11B              0
+                 BHNG11B              2
+RXSTG-1245       BHNG11C              0
+                 BHNG11C              3
+RXSTG-1246       TML050A              0
+                 TML050A              1
+RXSTG-1247       TML050B              0
+                 TML050B              2
+RXSTG-1248       BODK11A              0
+                 BODK11A              1
+RXSTG-1249       BODK11B              0
+                 BODK11B              2
+RXSTG-1250       DONU11A              0
+                 DONU11A              1
+RXSTG-1251       DONU11B              0
+                 DONU11B              2
+RXSTG-1252       DONU11C              0
+                 DONU11C              3
+RXSTG-1253       INTH11C              0
+                 INTH11C              3
+RXSTG-1254       INTH11A              0
+                 INTH11A              1
+RXSTG-1255       INTH11B              0
+                 INTH11B              2
+RXSTG-1256       TLKD11A              0
+                 TLKD11A              1
+RXSTG-1257       TLKD11B              0
+                 TLKD11B              2
+RXSTG-1258       TLKD11C              0
+                 TLKD11C              3
+RXSTG-1259       CHME11A              0
+                 CHME11A              1
+RXSTG-1260       CHME11B              0
+                 CHME11B              2
+RXSTG-1261       CHME11C              0
+                 CHME11C              3
+RXSTG-1262       CKDP11A              0
+                 CKDP11A              1
+RXSTG-1263       CKDP11B              0
+                 CKDP11B              2
+RXSTG-1264       CKDP11C              0
+                 CKDP11C              3
+RXSTG-1265       KARK11A              0
+                 KARK11A              1
+RXSTG-1266       KARK11B              0
+                 KARK11B              2
+RXSTG-1267       KARK11C              0
+                 KARK11C              3
+RXSTG-1268       ATDY11A              0
+                 ATDY11A              1
+RXSTG-1269       ATDY11B              0
+                 ATDY11B              2
+RXSTG-1270       ATDY11C              0
+                 ATDY11C              3
+RXSTG-1271       IDIK11A              0
+                 IDIK11A              1
+RXSTG-1272       IDIK11B              0
+                 IDIK11B              2
+RXSTG-1273       IDIK11C              0
+                 IDIK11C              3
+RXSTG-1274       IBP014A              0
+                 IBP014A              1
+RXSTG-1275       IBP014B              0
+                 IBP014B              2
+RXSTG-1276       IBP014C              0
+                 IBP014C              3
+RXSTG-1277       CHAN13A              0
+                 CHAN13A              1
+RXSTG-1278       CHAN13B              0
+                 CHAN13B              2
+RXSTG-1279       CHAN13C              0
+                 CHAN13C              3
+RXSTG-1280       CHAN14A              0
+                 CHAN14A              1
+RXSTG-1281       CHAN14B              0
+                 CHAN14B              2
+RXSTG-1282       CHAN14C              0
+                 CHAN14C              3
+RXSTG-1283       GHAT11A              0
+                 GHAT11A              1
+RXSTG-1284       GHAT11B              0
+                 GHAT11B              2
+RXSTG-1285       GHAT11C              0
+                 GHAT11C              3
+RXSTG-1286       COW081A              0
+                 COW081A              1
+RXSTG-1287       COW081B              0
+                 COW081B              2
+RXSTG-1288       COW081C              0
+                 COW081C              3
+RXSTG-1289       COW081K              0
+                 COW081K              1
+RXSTG-1290       COW081M              0
+                 COW081M              2
+RXSTG-1291       FTMP11A              0
+                 FTMP11A              1
+RXSTG-1292       FTMP11B              0
+                 FTMP11B              2
+RXSTG-1293       FTMP11C              0
+                 FTMP11C              3
+RXSTG-1294       RFC053A              0
+                 RFC053A              1
+RXSTG-1295       RFC053B              0
+                 RFC053B              2
+RXSTG-1296       RFC053C              0
+                 RFC053C              3
+RXSTG-1297       ANAJ11A              0
+                 ANAJ11A              1
+RXSTG-1298       ANAJ11B              0
+                 ANAJ11B              2
+RXSTG-1299       ANAJ11C              0
+                 ANAJ11C              3
+RXSTG-1300       MUDY11A              0
+                 MUDY11A              1
+RXSTG-1301       MUDY11B              0
+                 MUDY11B              2
+RXSTG-1302       MUDY11C              0
+                 MUDY11C              3
+RXSTG-1303       POKM11A              0
+                 POKM11A              1
+RXSTG-1304       POKM11B              0
+                 POKM11B              2
+RXSTG-1305       POKM11C              0
+                 POKM11C              3
+RXSTG-1309       PLPY50A              0
+                 PLPY50A              1
+RXSTG-1310       CHAN12A              0
+                 CHAN12A              1
+RXSTG-1311       CHAN12B              0
+                 CHAN12B              2
+RXSTG-1312       CHAN12C              0
+                 CHAN12C              3
+RXSTG-1313       PLCM11A              0
+                 PLCM11A              1
+RXSTG-1314       PLCM11B              0
+                 PLCM11B              2
+                 PLCM11B              6
+RXSTG-1315       PLCM11C              0
+                 PLCM11C              3
+RXSTG-1316       COW088A              0
+                 COW088A              1
+RXSTG-1317       COW088B              0
+                 COW088B              2
+RXSTG-1318       COW088C              0
+                 COW088C              3
+RXSTG-1319       COW088K              0
+                 COW088K              1
+RXSTG-1320       COW088L              0
+                 COW088L              2
+RXSTG-1321       COW088M              0
+                 COW088M              3
+RXSTG-1322       HY7094A              0
+                 HY7094A              1
+RXSTG-1323       HY7094B              0
+                 HY7094B              2
+RXSTG-1324       HY7094C              0
+                 HY7094C              3
+RXSTG-1325       SDR019A              0
+                 SDR019A              1
+RXSTG-1326       SDR019B              0
+                 SDR019B              2
+RXSTG-1327       SDR019C              0
+                 SDR019C              3
+RXSTG-1328       JBPL11A              0
+                 JBPL11A              1
+RXSTG-1329       JBPL11B              0
+                 JBPL11B              2
+RXSTG-1330       JBPL11C              0
+                 JBPL11C              3
+RXSTG-1331       IPPL11A              0
+                 IPPL11A              1
+RXSTG-1332       IPPL11B              0
+                 IPPL11B              2
+RXSTG-1333       IPPL11C              0
+                 IPPL11C              3
+RXSTG-1334       BAPL11A              0
+                 BAPL11A              1
+RXSTG-1335       BAPL11B              0
+                 BAPL11B              2
+RXSTG-1336       BAPL11C              0
+                 BAPL11C              3
+RXSTG-1337       MDGI11A              0
+                 MDGI11A              1
+RXSTG-1338       MDGI11B              0
+                 MDGI11B              2
+RXSTG-1339       MDGI11C              0
+                 MDGI11C              3
+RXSTG-1340       PLPY53A              0
+                 PLPY53A              1
+RXSTG-1341       PLPY53B              0
+                 PLPY53B              2
+RXSTG-1342       PLPY53C              0
+                 PLPY53C              3
+RXSTG-1343       NRVL11A              0
+                 NRVL11A              1
+RXSTG-1344       NRVL11B              0
+                 NRVL11B              2
+RXSTG-1345       NRVL11C              0
+                 NRVL11C              3
+RXSTG-1346       JDC008A              0
+                 JDC008A              1
+RXSTG-1347       JDC008B              0
+                 JDC008B              2
+RXSTG-1348       JDC008C              0
+                 JDC008C              3
+RXSTG-1349       JDC008K              0
+                 JDC008K              5
+RXSTG-1350       JDC008L              0
+                 JDC008L              5
+RXSTG-1351       PODK11A              0
+                 PODK11A              1
+RXSTG-1352       PODK11B              0
+                 PODK11B              2
+RXSTG-1353       PODK11C              0
+                 PODK11C              3
+RXSTG-1354       GDP050A              0
+                 GDP050A              1
+RXSTG-1355       GDP050B              0
+                 GDP050B              2
+RXSTG-1356       GDP050C              0
+                 GDP050C              3
+RXSTG-1357       BRGL11A              0
+                 BRGL11A              1
+RXSTG-1358       BRGL11B              0
+                 BRGL11B              2
+RXSTG-1359       BRGL11C              0
+                 BRGL11C              3
+RXSTG-1360       BLN002A              0
+                 BLN002A              1
+RXSTG-1361       BLN002B              0
+                 BLN002B              2
+RXSTG-1362       BLN002C              0
+                 BLN002C              3
+RXSTG-1363       TMPR11A              0
+                 TMPR11A              1
+RXSTG-1364       TMPR11B              0
+                 TMPR11B              2
+RXSTG-1365       TMPR11C              0
+                 TMPR11C              3
+RXSTG-1366       HSGD11A              0
+                 HSGD11A              1
+RXSTG-1367       HSGD11B              0
+                 HSGD11B              2
+RXSTG-1368       HSGD11C              0
+                 HSGD11C              3
+RXSTG-1369       DBCH12A              0
+                 DBCH12A              1
+RXSTG-1370       DBCH12B              0
+                 DBCH12B              2
+RXSTG-1371       DBCH12C              0
+                 DBCH12C              3
+RXSTG-1372       DBCH12K              0
+                 DBCH12K              5
+RXSTG-1373       SDR011A              0
+                 SDR011A              1
+RXSTG-1374       SDR011B              0
+                 SDR011B              2
+RXSTG-1375       SDR011C              0
+                 SDR011C              3
+RXSTG-1376       SDR011L              0
+                 SDR011L              5
+RXSTG-1377       CNRV11A              0
+                 CNRV11A              1
+RXSTG-1378       CNRV11B              0
+                 CNRV11B              2
+RXSTG-1379       CNRV11C              0
+                 CNRV11C              3
+RXSTG-1380       SDR005A              0
+                 SDR005A              1
+RXSTG-1381       SDR005B              0
+                 SDR005B              2
+RXSTG-1382       SDR005C              0
+                 SDR005C              3
+RXSTG-1383       SDR005M              0
+                 SDR005M              5
+RXSTG-1384       KTAP11A              0
+                 KTAP11A              1
+RXSTG-1385       KTAP11B              0
+                 KTAP11B              2
+RXSTG-1386       KTAP11C              0
+                 KTAP11C              3
+RXSTG-1387       SDR002A              0
+                 SDR002A              1
+RXSTG-1388       SDR002B              0
+                 SDR002B              2
+RXSTG-1389       SDR002C              0
+                 SDR002C              3
+RXSTG-1390       SDR013A              0
+                 SDR013A              1
+RXSTG-1391       SDR013B              0
+                 SDR013B              2
+RXSTG-1392       SDR013C              0
+                 SDR013C              3
+RXSTG-1393       SDR001A              0
+                 SDR001A              1
+RXSTG-1394       SDR001B              0
+                 SDR001B              2
+RXSTG-1395       SDR001C              0
+                 SDR001C              3
+RXSTG-1396       RICD11A              0
+                 RICD11A              1
+RXSTG-1397       RICD11B              0
+                 RICD11B              2
+RXSTG-1398       RICD11C              0
+                 RICD11C              3
+RXSTG-1399       PNJR12A              0
+                 PNJR12A              1
+RXSTG-1400       PNJR12B              0
+                 PNJR12B              2
+RXSTG-1401       PNJR12C              0
+                 PNJR12C              3
+RXSTG-1402       PNJR12K              0
+                 PNJR12K              5
+RXSTG-1403       GUM002A              0
+                 GUM002A              1
+                 GUM002A              6
+RXSTG-1404       GUM002B              0
+                 GUM002B              2
+RXSTG-1405       GUM002C              0
+                 GUM002C              3
+RXSTG-1406       GUM001A              0
+                 GUM001A              1
+RXSTG-1407       GUM001B              0
+                 GUM001B              2
+RXSTG-1408       GUM001C              0
+                 GUM001C              3
+RXSTG-1409       ELI001A              0
+                 ELI001A              1
+RXSTG-1410       ELI001B              0
+                 ELI001B              2
+RXSTG-1411       ELI001C              0
+                 ELI001C              3
+RXSTG-1412       ELI001L              0
+                 ELI001L              5
+RXSTG-1413       LYPL11A              0
+                 LYPL11A              1
+RXSTG-1414       LYPL11B              0
+                 LYPL11B              2
+RXSTG-1415       LYPL11C              0
+                 LYPL11C              3
+RXSTG-1416       SVNG11A              0
+                 SVNG11A              1
+RXSTG-1417       SVNG11B              0
+                 SVNG11B              2
+RXSTG-1418       SVNG11C              0
+                 SVNG11C              3
+RXSTG-1419       DPML11A              0
+                 DPML11A              1
+RXSTG-1420       DPML11B              0
+                 DPML11B              2
+RXSTG-1421       DPML11C              0
+                 DPML11C              3
+RXSTG-1422       RFC003A              0
+                 RFC003A              1
+RXSTG-1423       RFC003B              0
+                 RFC003B              2
+RXSTG-1424       RFC003C              0
+                 RFC003C              3
+RXSTG-1425       RFC003D              0
+                 RFC003D              5
+RXSTG-1426       RFC003E              0
+                 RFC003E              5
+RXSTG-1427       CRDN11A              0
+                 CRDN11A              1
+RXSTG-1428       CRDN11B              0
+                 CRDN11B              2
+RXSTG-1429       CRDN11C              0
+                 CRDN11C              3
+RXSTG-1430       URKN11A              0
+                 URKN11A              1
+RXSTG-1431       URKN11B              0
+                 URKN11B              2
+RXSTG-1432       URKN11C              0
+                 URKN11C              3
+RXSTG-1433       BLN005A              0
+                 BLN005A              1
+RXSTG-1434       BLN005B              0
+                 BLN005B              2
+RXSTG-1435       BLN005C              0
+                 BLN005C              3
+RXSTG-1437       JDC002B              0
+                 JDC002B              2
+RXSTG-1438       JDC002C              0
+                 JDC002C              3
+RXSTG-1439       JDC002D              0
+                 JDC002D              1
+RXSTG-1440       JDC002A              0
+                 JDC002A              1
+RXSTG-1441       JDC012A              0
+                 JDC012A              1
+RXSTG-1442       JDC012B              0
+                 JDC012B              2
+RXSTG-1443       JDC012C              0
+                 JDC012C              3
+RXSTG-1444       JDC012L              0
+                 JDC012L              5
+RXSTG-1445       SDR006A              0
+                 SDR006A              1
+RXSTG-1446       SDR006B              0
+                 SDR006B              2
+RXSTG-1447       SDR006C              0
+                 SDR006C              3
+RXSTG-1448       KORU16A              0
+                 KORU16A              1
+RXSTG-1449       KORU16B              0
+                 KORU16B              2
+RXSTG-1450       KORU16C              0
+                 KORU16C              3
+RXSTG-1451       SDR010A              0
+                 SDR010A              1
+RXSTG-1452       SDR010B              0
+                 SDR010B              2
+RXSTG-1453       SDR010C              0
+                 SDR010C              3
+RXSTG-1454       SDR050A              0
+                 SDR050A              1
+RXSTG-1455       SDR050B              0
+                 SDR050B              2
+RXSTG-1456       SDR050C              0
+                 SDR050C              3
+RXSTG-1457       NEDU11A              0
+                 NEDU11A              1
+RXSTG-1458       NEDU11B              0
+                 NEDU11B              2
+RXSTG-1459       NEDU11C              0
+                 NEDU11C              3
+RXSTG-1460       DMBP11A              0
+                 DMBP11A              1
+RXSTG-1461       DMBP11B              0
+                 DMBP11B              2
+RXSTG-1462       DMBP11C              0
+                 DMBP11C              3
+                 DMBP11C              6
+RXSTG-1463       NDWP11A              0
+                 NDWP11A              1
+RXSTG-1464       NDWP11B              0
+                 NDWP11B              2
+                 NDWP11B              6
+RXSTG-1465       NDWP11C              0
+                 NDWP11C              3
+RXSTG-1466       GNLR11A              0
+                 GNLR11A              1
+RXSTG-1467       GNLR11B              0
+                 GNLR11B              2
+RXSTG-1468       GNLR11C              0
+                 GNLR11C              3
+RXSTG-1469       GNLR11L              0
+                 GNLR11L              5
+RXSTG-1470       NLWL11A              0
+                 NLWL11A              1
+RXSTG-1471       NLWL11B              0
+                 NLWL11B              2
+RXSTG-1472       NLWL11C              0
+                 NLWL11C              3
+RXSTG-1473       DDPE11A              0
+                 DDPE11A              1
+                 DDPE11A              6
+RXSTG-1474       DDPE11B              0
+                 DDPE11B              2
+                 DDPE11B              6
+RXSTG-1475       DDPE11C              0
+                 DDPE11C              3
+RXSTG-1476       KHPE11A              0
+                 KHPE11A              1
+RXSTG-1477       KHPE11B              0
+                 KHPE11B              2
+RXSTG-1478       KHPE11C              0
+                 KHPE11C              3
+                 KHPE11C              6
+RXSTG-1479       ARUT11A              0
+                 ARUT11A              1
+RXSTG-1480       ARUT11B              0
+                 ARUT11B              2
+RXSTG-1481       ARUT11C              0
+                 ARUT11C              3
+RXSTG-1482       YACH11A              0
+                 YACH11A              1
+RXSTG-1483       YACH11B              0
+                 YACH11B              2
+RXSTG-1484       YACH11C              0
+                 YACH11C              3
+RXSTG-1485       IBP008A              0
+                 IBP008A              1
+RXSTG-1486       IBP008B              0
+                 IBP008B              2
+RXSTG-1487       IBP008C              0
+                 IBP008C              3
+RXSTG-1488       IBP007A              0
+                 IBP007A              1
+RXSTG-1489       IBP007B              0
+                 IBP007B              2
+RXSTG-1490       IBP007C              0
+                 IBP007C              3
+RXSTG-1491       MNCH11A              0
+                 MNCH11A              1
+RXSTG-1492       MNCH11B              0
+                 MNCH11B              2
+                 MNCH11B              6
+RXSTG-1493       MNCH11C              0
+                 MNCH11C              3
+RXSTG-1494       KAPU11A              0
+                 KAPU11A              1
+RXSTG-1495       KAPU11B              0
+                 KAPU11B              2
+RXSTG-1496       KAPU11C              0
+                 KAPU11C              3
+RXSTG-1497       NDGM03A              0
+                 NDGM03A              1
+RXSTG-1498       NDGM03B              0
+                 NDGM03B              2
+RXSTG-1499       NDGM03C              0
+                 NDGM03C              3
+RXSTG-1500       TJPT11A              0
+                 TJPT11A              1
+RXSTG-1501       TJPT11B              0
+                 TJPT11B              2
+RXSTG-1502       TJPT11C              0
+                 TJPT11C              3
+RXSTG-1503       VALR11A              0
+                 VALR11A              1
+RXSTG-1504       VALR11B              0
+                 VALR11B              2
+RXSTG-1505       VALR11C              0
+                 VALR11C              3
+RXSTG-1506       AKTP11A              0
+                 AKTP11A              1
+RXSTG-1507       AKTP11B              0
+                 AKTP11B              2
+RXSTG-1508       AKTP11C              0
+                 AKTP11C              3
+RXSTG-1632       SAN001A              0
+                 SAN001A              1
+RXSTG-1633       SAN001B              0
+                 SAN001B              2
+RXSTG-1634       SAN001C              0
+                 SAN001C              3
+RXSTG-1635       NGP001A              0
+                 NGP001A              1
+RXSTG-1636       NGP001B              0
+                 NGP001B              2
+RXSTG-1637       NGP001C              0
+                 NGP001C              3
+RXSTG-1638       NGP001M              0
+                 NGP001M              5
+RXSTG-1639       RFC001A              0
+                 RFC001A              1
+RXSTG-1640       RFC001B              0
+                 RFC001B              2
+RXSTG-1641       RFC001C              0
+                 RFC001C              3
+RXSTG-1642       RFC052A              0
+                 RFC052A              1
+RXSTG-1643       RFC052B              0
+                 RFC052B              2
+RXSTG-1644       RFC052C              0
+                 RFC052C              3
+RXSTG-1645       RFC052D              0
+                 RFC052D              5
+RXSTG-1646       KURU12A              0
+                 KURU12A              1
+RXSTG-1647       KURU12B              0
+                 KURU12B              2
+RXSTG-1648       KURU12C              0
+                 KURU12C              3
+RXSTG-1649       GDKD11B              0
+                 GDKD11B              2
+RXSTG-1650       GDKD11C              0
+                 GDKD11C              3
+RXSTG-1651       GDKD11A              0
+                 GDKD11A              1
+RXSTG-1652       TRPY11A              0
+                 TRPY11A              1
+RXSTG-1653       TRPY11B              0
+                 TRPY11B              2
+RXSTG-1654       TRPY11C              0
+                 TRPY11C              3
+RXSTG-1655       YRGP11A              0
+                 YRGP11A              1
+RXSTG-1656       YRGP11B              0
+                 YRGP11B              2
+RXSTG-1657       YRGP11C              0
+                 YRGP11C              3
+RXSTG-1658       MRGD11A              0
+                 MRGD11A              1
+RXSTG-1659       MRGD11B              0
+                 MRGD11B              2
+RXSTG-1660       MRGD11C              0
+                 MRGD11C              3
+RXSTG-1661       AMAN11A              0
+                 AMAN11A              1
+RXSTG-1662       AMAN11B              0
+                 AMAN11B              2
+RXSTG-1663       AMAN11C              0
+                 AMAN11C              3
+RXSTG-1664       UDHY11A              0
+                 UDHY11A              1
+RXSTG-1665       UDHY11B              0
+                 UDHY11B              2
+RXSTG-1666       UDHY11C              0
+                 UDHY11C              3
+RXSTG-1667       THMU11A              0
+                 THMU11A              1
+RXSTG-1668       THMU11B              0
+                 THMU11B              2
+RXSTG-1669       THMU11C              0
+                 THMU11C              3
+RXSTG-1670       KORU50A              0
+                 KORU50A              1
+RXSTG-1671       KORU50B              0
+                 KORU50B              2
+RXSTG-1672       KORU50C              0
+                 KORU50C              3
+RXSTG-1673       KORU50L              0
+                 KORU50L              5
+RXSTG-1674       KORU50M              0
+                 KORU50M              5
+RXSTG-1675       PLPA11A              0
+                 PLPA11A              1
+RXSTG-1676       PLPA11B              0
+                 PLPA11B              2
+RXSTG-1677       PLPA11C              0
+                 PLPA11C              3
+RXSTG-1678       PLPA11M              0
+                 PLPA11M              5
+RXSTG-1679       KVLP11A              0
+                 KVLP11A              1
+RXSTG-1680       KVLP11B              0
+                 KVLP11B              2
+RXSTG-1681       KVLP11C              0
+                 KVLP11C              3
+RXSTG-1682       MUGU11A              0
+                 MUGU11A              1
+RXSTG-1683       MUGU11B              0
+                 MUGU11B              2
+RXSTG-1684       MUGU11C              0
+                 MUGU11C              3
+RXSTG-1685       CHTP11A              0
+                 CHTP11A              1
+RXSTG-1686       CHTP11B              0
+                 CHTP11B              2
+RXSTG-1687       CHTP11C              0
+                 CHTP11C              3
+RXSTG-1688       JDC023A              0
+                 JDC023A              1
+RXSTG-1689       JDC023B              0
+                 JDC023B              2
+RXSTG-1690       JDC023C              0
+                 JDC023C              3
+RXSTG-1691       JDC023K              0
+                 JDC023K              1
+RXSTG-1692       JDC023L              0
+                 JDC023L              2
+RXSTG-1693       PNJR50A              0
+                 PNJR50A              1
+RXSTG-1694       PNJR50B              0
+                 PNJR50B              2
+RXSTG-1695       PNJR50C              0
+                 PNJR50C              3
+RXSTG-1696       PNJR50D              0
+                 PNJR50D              5
+RXSTG-1697       BLN003A              0
+                 BLN003A              1
+RXSTG-1698       BLN003B              0
+                 BLN003B              2
+RXSTG-1699       BLN003C              0
+                 BLN003C              3
+RXSTG-1700       BLN003L              0
+                 BLN003L              5
+RXSTG-1701       NDGM02A              0
+                 NDGM02A              1
+RXSTG-1702       NDGM02B              0
+                 NDGM02B              2
+RXSTG-1703       NDGM02C              0
+                 NDGM02C              3
+RXSTG-1704       TMSG11A              0
+                 TMSG11A              1
+RXSTG-1705       TMSG11B              0
+                 TMSG11B              2
+RXSTG-1706       TMSG11C              0
+                 TMSG11C              3
+RXSTG-1707       PLPY51A              0
+                 PLPY51A              1
+RXSTG-1708       PLPY51B              0
+                 PLPY51B              2
+RXSTG-1709       PLPY51L              0
+                 PLPY51L              5
+RXSTG-1710       RUDR11A              0
+                 RUDR11A              1
+RXSTG-1711       RUDR11B              0
+                 RUDR11B              2
+RXSTG-1712       RUDR11C              0
+                 RUDR11C              3
+RXSTG-1713       MALL11A              0
+                 MALL11A              1
+RXSTG-1714       MALL11B              0
+                 MALL11B              2
+RXSTG-1715       MALL11C              0
+                 MALL11C              3
+RXSTG-1716       MDAN11A              0
+                 MDAN11A              1
+RXSTG-1717       MDAN11B              0
+                 MDAN11B              2
+RXSTG-1718       MDAN11C              0
+                 MDAN11C              3
+RXSTG-1719       SDR014A              0
+                 SDR014A              1
+RXSTG-1720       SDR014B              0
+                 SDR014B              2
+RXSTG-1721       SDR014C              0
+                 SDR014C              3
+RXSTG-1722       MDGA11A              0
+                 MDGA11A              1
+RXSTG-1723       MDGA11B              0
+                 MDGA11B              2
+RXSTG-1724       MDGA11C              0
+                 MDGA11C              3
+RXSTG-1725       TMDK11A              0
+                 TMDK11A              1
+RXSTG-1726       TMDK11B              0
+                 TMDK11B              2
+RXSTG-1727       TMDK11C              0
+                 TMDK11C              3
+RXSTG-1728       PLMA11A              0
+                 PLMA11A              1
+RXSTG-1729       PLMA11B              0
+                 PLMA11B              2
+RXSTG-1730       PLMA11C              0
+                 PLMA11C              3
+RXSTG-1731       SIDD11A              0
+                 SIDD11A              1
+RXSTG-1732       SIDD11B              0
+                 SIDD11B              2
+RXSTG-1733       SIDD11C              0
+                 SIDD11C              3
+RXSTG-1734       SER003A              0
+                 SER003A              1
+RXSTG-1735       SER003B              0
+                 SER003B              2
+RXSTG-1736       SER003C              0
+                 SER003C              3
+RXSTG-1737       MREP11A              0
+                 MREP11A              1
+RXSTG-1738       MREP11B              0
+                 MREP11B              2
+RXSTG-1739       MREP11C              0
+                 MREP11C              3
+RXSTG-1740       TDOR11A              0
+                 TDOR11A              1
+RXSTG-1741       TDOR11B              0
+                 TDOR11B              2
+RXSTG-1742       TDOR11C              0
+                 TDOR11C              3
+RXSTG-1743       MADH11A              0
+                 MADH11A              1
+RXSTG-1744       MADH11B              0
+                 MADH11B              2
+RXSTG-1745       MADH11C              0
+                 MADH11C              3
+RXSTG-1746       ETPG11A              0
+                 ETPG11A              1
+RXSTG-1747       ETPG11B              0
+                 ETPG11B              2
+RXSTG-1748       ETPG11C              0
+                 ETPG11C              3
+RXSTG-1749       NSRL11A              0
+                 NSRL11A              1
+RXSTG-1750       NSRL11B              0
+                 NSRL11B              2
+RXSTG-1751       NSRL11C              0
+                 NSRL11C              3
+RXSTG-1752       NSRL11M              0
+                 NSRL11M              5
+RXSTG-1753       KMDM11A              0
+                 KMDM11A              1
+RXSTG-1754       KMDM11B              0
+                 KMDM11B              2
+RXSTG-1755       KMDM11C              0
+                 KMDM11C              3
+RXSTG-1756       NAMP11A              0
+                 NAMP11A              1
+RXSTG-1757       NAMP11B              0
+                 NAMP11B              2
+RXSTG-1758       NAMP11C              0
+                 NAMP11C              3
+RXSTG-1759       GHUP11A              0
+                 GHUP11A              1
+RXSTG-1760       GHUP11B              0
+                 GHUP11B              2
+RXSTG-1761       GHUP11C              0
+                 GHUP11C              3
+RXSTG-1762       MSW001A              0
+                 MSW001A              1
+RXSTG-1763       MSW001B              0
+                 MSW001B              2
+RXSTG-1764       MSW001C              0
+                 MSW001C              3
+RXSTG-1765       NARA11A              0
+                 NARA11A              1
+RXSTG-1766       NARA11B              0
+                 NARA11B              2
+RXSTG-1767       NARA11C              0
+                 NARA11C              3
+RXSTG-1768       GUJJ11A              0
+                 GUJJ11A              1
+RXSTG-1769       GUJJ11B              0
+                 GUJJ11B              2
+RXSTG-1770       GUJJ11C              0
+                 GUJJ11C              3
+RXSTG-1771       GUJJ11L              0
+                 GUJJ11L              5
+RXSTG-1772       HY5673A              0
+                 HY5673A              1
+RXSTG-1773       HY5673B              0
+                 HY5673B              2
+RXSTG-1774       HY5673C              0
+                 HY5673C              3
+RXSTG-1775       MTGW11A              0
+                 MTGW11A              1
+RXSTG-1776       MTGW11B              0
+                 MTGW11B              2
+RXSTG-1777       MTGW11C              0
+                 MTGW11C              3
+RXSTG-1778       MNKL12A              0
+                 MNKL12A              1
+RXSTG-1779       MNKL12B              0
+                 MNKL12B              2
+RXSTG-1780       MNKL12C              0
+                 MNKL12C              3
+RXSTG-1781       APRD11A              0
+                 APRD11A              1
+RXSTG-1782       APRD11B              0
+                 APRD11B              2
+RXSTG-1783       APRD11C              0
+                 APRD11C              3
+RXSTG-1784       APRD11L              0
+                 APRD11L              5
+RXSTG-1785       JANG11A              0
+                 JANG11A              1
+RXSTG-1786       JANG11B              0
+                 JANG11B              2
+RXSTG-1787       JANG11C              0
+                 JANG11C              3
+RXSTG-1788       KMSN11A              0
+                 KMSN11A              1
+RXSTG-1789       KMSN11B              0
+                 KMSN11B              2
+RXSTG-1790       KMSN11C              0
+                 KMSN11C              3
+RXSTG-1791       MNKL12D              0
+                 MNKL12D              1
+RXSTG-1792       NGLA11A              0
+                 NGLA11A              1
+RXSTG-1793       NGLA11B              0
+                 NGLA11B              2
+RXSTG-1794       NGLA11C              0
+                 NGLA11C              3
+RXSTG-1795       TLPY11A              0
+                 TLPY11A              1
+RXSTG-1796       TLPY11B              0
+                 TLPY11B              2
+RXSTG-1797       TLPY11C              0
+                 TLPY11C              3
+RXSTG-1800       MADG11A              0
+                 MADG11A              1
+RXSTG-1801       MADG11B              0
+                 MADG11B              2
+RXSTG-1802       MADG11C              0
+                 MADG11C              3
+RXSTG-1803       MDWN11A              0
+                 MDWN11A              1
+RXSTG-1804       MDWN11B              0
+                 MDWN11B              2
+RXSTG-1805       MDWN11C              0
+                 MDWN11C              3
+RXSTG-1806       SDR017L              0
+                 SDR017L              1
+
+END
+
