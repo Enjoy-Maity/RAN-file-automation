@@ -1,3 +1,4 @@
+from tkinter.tix import DirTree
 import pandas as pd
 import xlsxwriter as xls
 # pre_log=open("Prelogs.txt","r")
@@ -14,6 +15,19 @@ for i in range(0,len(df)):
 
     else:
         break
-i+=2
-print(mo)
-print(i)    
+mo_refined=dict()
+cell_chgrp=dict()
+for j in range(i,len(df)):
+    if df.iloc[j][0] in mo:
+        mo_refined[df.iloc[j][0]]=df.iloc[j][1]
+        cell_chgrp[df.iloc[j][1]]=list()
+
+for j in range(i,len(df)):
+    if df.iloc[j][1] in mo_refined.values():
+        temp=df.iloc[j][2]
+        cell_chgrp[df.iloc[j][1]].append(temp)
+
+print(mo_refined)
+print(len(mo_refined))
+print(cell_chgrp)
+print(len(cell_chgrp))
