@@ -27,7 +27,17 @@ for j in range(i,len(df)):
         temp=df.iloc[j][2]
         cell_chgrp[df.iloc[j][1]].append(temp)
 
-print(mo_refined)
+# print(mo_refined)
 print(len(mo_refined))
-print(cell_chgrp)
+# print(cell_chgrp)
 print(len(cell_chgrp))
+old_tg=list(mo_refined.keys())
+
+# getting the list of old tg from pre
+for j in range(len(old_tg)):
+    temp=old_tg[j]
+    temp=temp[6:]
+    old_tg[j]=temp
+
+print(old_tg)
+
