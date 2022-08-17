@@ -42,9 +42,9 @@ for j in range(len(old_tg)):
 rsite=dict()
 sctor=dict()
 
-for j in range(0,i+1):
-    if df.iloc[j][0] in mo_refined:
-        rsite[df.iloc[j][]]
+# for j in range(0,i+1):
+#     if df.iloc[j][0] in mo_refined:
+#         #rsite[df.iloc[j][]]
 cell_input=list()
 new_tg=[0]*1010
 
