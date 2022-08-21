@@ -1,5 +1,7 @@
 import re
 import pandas as pd
+import xlsxwriter
+from datetime import date
 
 file=open("Prelogs.txt","r")
 pre_reader=file.readlines()
@@ -90,7 +92,7 @@ for j in range(0,len(pre_chgr_list)):
         newtg.append(new_tg[j])
         oldtg.append(int(tg_list[j][6:]))
         if k==0:
-            temp1=f"rxmoi:mo={tg_list[j]},Sector={rsite_list[j][0:6]}_{rsite_list[j][6:]},RSITE={rsite_list[j]};"
+            temp1=f"rxmoi:mo={tg_list[j]},Sector={cell_input_list[j][0:6]}_{cell_input_list[j][6:]},RSITE={rsite_list[j]};"
             new_tg_defination_in_destination_bsc.append(temp1)
             
             temp2=f"rxesi:mo={tg_list[j]}"
@@ -125,7 +127,7 @@ for j in range(0,len(pre_chgr_list)):
         tg_block_source_bsc_rxese.append(temp6)
 
 pd.set_option('display.max_columns', None)
-dataframe_dictionary={"CELL_INPUT":cell_input,"CHGR":chgr,"RSITE":rsite,"NEW TG":newtg,"OLD TG":oldtg,"NEW_TG_defination_in_destination_bsc":new_tg_defination_in_destination_bsc,"chgr_allocation in destination bsc":chgr_allocation_in_destination_bsc,"tg deblock iu destination bsc":tg_deblock_iu_destination_bsc_rxesi,"tg deblock iu destination bsc":tg_deblock_iu_destination_bsc_rxble,"cell active in destination bsc":cell_active_in_destination_bsc,"cell halte in source bsc":cell_halte_in_source_bsc,"TG block in source BSC":tg_block_source_bsc_rxbli,"TG block in source BSC":tg_block_source_bsc_rxese}
+dataframe_dictionary={"CELL_INPUT":cell_input,"CHGR":chgr,"RSITE":rsite,"NEW TG":newtg,"OLD TG":oldtg,"NEW_TG_defination_in_destination_bsc":new_tg_defination_in_destination_bsc,"chgr_allocation in destination bsc":chgr_allocation_in_destination_bsc,"tg deblock iu destination bsc (rxesi)":tg_deblock_iu_destination_bsc_rxesi,"tg deblock iu destination bsc (rxble)":tg_deblock_iu_destination_bsc_rxble,"cell active in destination bsc":cell_active_in_destination_bsc,"cell halte in source bsc":cell_halte_in_source_bsc,"TG block in source BSC (rxbli)":tg_block_source_bsc_rxbli,"TG block in source BSC (rxese)":tg_block_source_bsc_rxese}
 df=pd.DataFrame(dataframe_dictionary)
 
 # print("\nlength of cell input: ",len(cell_input))
@@ -143,5 +145,37 @@ df=pd.DataFrame(dataframe_dictionary)
 # print("\nlength of tg_block_source_bsc_rxese: ",len(tg_block_source_bsc_rxese))
 
 # print("\n length of rsite_list: ",len(rsite))
-print(df.head())
+#print(df.head())
+workbook=f'IP_mig_dt_{date.today().strftime("%d-%m-%Y")}.xlsx'
+writer=pd.ExcelWriter(workbook,engine='xlsxwriter')
+df.to_excel(writer,sheet_name='Sheet 1',index=False)
+workbook=writer.book
+worksheet=writer.sheets['Sheet 1']
+
+# red_headers=['B1','C1','E1','K1','L1','M1']
+# green_headers=['D1','F1','G1','H1','I1','J1']
+
+format1=workbook.add_format({'bold':True,'fg_color':'#00ff00','font_color':'#000000','border':1})
+format2=workbook.add_format({'bold':True,'fg_color':'#f23c14','font_color':'#000000','border':1})
+header_format=workbook.add_format({'bold':True,'font_color':'#000000','border':1})
+
+for col_num, value in enumerate(df.columns.values):
+    #write to second row
+    worksheet.write(0, col_num, value, header_format)
+
+    column_len = df[value].astype(str).str.len().max()
+    column_len = max(column_len, len(value)) + 3
+    worksheet.set_column(col_num, col_num, column_len)
+
+# for i in red_headers:
+#     worksheet.conditional_format(i,{'type':'no_blanks','format':format2})
+
+# for i in green_headers:
+#     worksheet.conditional_format(i,{'type':'no_blanks','format':format1})
+
+
+
+writer.save()
+
+
 file.close()
