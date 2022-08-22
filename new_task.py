@@ -92,13 +92,13 @@ for j in range(0,len(pre_chgr_list)):
         newtg.append(new_tg[j])
         oldtg.append(int(tg_list[j][6:]))
         if k==0:
-            temp1=f"rxmoi:mo={tg_list[j]},Sector={cell_input_list[j][0:6]}_{cell_input_list[j][6:]},RSITE={rsite_list[j]};"
+            temp1=f"rxmoi:mo=rxstg-{new_tg[j]},Sector={cell_input_list[j][0:6]}_{cell_input_list[j][6:]},RSITE={rsite_list[j]};"
             new_tg_defination_in_destination_bsc.append(temp1)
             
-            temp2=f"rxesi:mo={tg_list[j]}"
+            temp2=f"rxesi:mo=rxstg-{new_tg[j]}"
             tg_deblock_iu_destination_bsc_rxesi.append(temp2)
 
-            temp3=f"rxble:mo={tg_list[j]}"
+            temp3=f"rxble:mo=rxstg-{new_tg[j]}"
             tg_deblock_iu_destination_bsc_rxble.append(temp3)
 
         else:
@@ -111,7 +111,7 @@ for j in range(0,len(pre_chgr_list)):
             temp3=""
             tg_deblock_iu_destination_bsc_rxble.append(temp3)
         
-        temp2=f"rxtci:mo={tg_list[j]},cell={cell_input_list[j]},chgr={pre_chgr_list[j][k]};"
+        temp2=f"rxtci:mo=rxstg-{new_tg[j]},cell={cell_input_list[j]},chgr={pre_chgr_list[j][k]};"
         chgr_allocation_in_destination_bsc.append(temp2)
 
         temp3=f"rlstc:cell={cell_input_list[j]},chgr={pre_chgr_list[j][k]},state=active;"
@@ -152,16 +152,20 @@ df.to_excel(writer,sheet_name='Sheet 1',index=False)
 workbook=writer.book
 worksheet=writer.sheets['Sheet 1']
 
-# red_headers=['B1','C1','E1','K1','L1','M1']
-# green_headers=['D1','F1','G1','H1','I1','J1']
+red_headers=[1,2,4,10,11,12]
+green_headers=[3,5,6,7,8,9]
 
-format1=workbook.add_format({'bold':True,'fg_color':'#00ff00','font_color':'#000000','border':1})
-format2=workbook.add_format({'bold':True,'fg_color':'#f23c14','font_color':'#000000','border':1})
+format_red=workbook.add_format({'bold':True,'fg_color':'#ff1a1a','font_color':'#000000','border':1})
+format_green=workbook.add_format({'bold':True,'fg_color':'#00ff55','font_color':'#000000','border':1})
 header_format=workbook.add_format({'bold':True,'font_color':'#000000','border':1})
 
 for col_num, value in enumerate(df.columns.values):
-    #write to second row
-    worksheet.write(0, col_num, value, header_format)
+    if col_num in red_headers:
+        worksheet.write(0, col_num, value, format_red)
+    elif col_num in green_headers:
+        worksheet.write(0, col_num, value, format_green)
+    else:
+        worksheet.write(0, col_num, value, header_format)
 
     column_len = df[value].astype(str).str.len().max()
     column_len = max(column_len, len(value)) + 3

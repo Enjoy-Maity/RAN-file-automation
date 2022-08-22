@@ -45,6 +45,13 @@ def func1():
             chgr[line[1]].append(line[2])
         else:
             continue
+    # for key in chgr:
+    #     if len(chgr.get(key))==0:
+    #         chgr.pop(key)
+    #         rsite.pop(key)
+    #         mo.pop(key)
+    # print(mo)
+
     file=open("Post_logs.txt","r")
     reader2=file.readlines()
     modified_reader2=[]
@@ -64,10 +71,15 @@ def func1():
         else:
             continue
         i+=1
+    print(len(pre_Rsite))
+    print(len(new_tg))
 
     for j in range(0,len(pre_stg)):
         pre_stg[j]=pre_stg[j].lower()
 
     #print(mo)
-    print(pre_stg)
+    #print(chgr)
     file.close()
+
+
+func1()
